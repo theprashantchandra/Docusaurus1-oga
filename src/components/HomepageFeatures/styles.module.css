@@ -1,0 +1,19 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 100px;
+  width: 100px;
+}
+
+.featureMapImage{
+  height:90%;
+  width:90%;
+}
+.blueColorFont{
+  color: #186ee7;
+}
